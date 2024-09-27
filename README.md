@@ -1,4 +1,5 @@
 # html-blog-project
+This project was completed as part of the HTML assignment for the Internshala Full Stack Placement Guarantee course.
 
 ## snapshots 
 <img width="888" alt="PowerPoint Slide Show  -  Presentation1 pptx 5_3_2024 12_29_08 PM" src="1.png">
